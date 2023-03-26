@@ -32,6 +32,6 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## License
+## Custodian
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[Sourangshu Kundu](sourangshu04@gmail.com)
