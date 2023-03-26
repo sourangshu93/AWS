@@ -3,7 +3,7 @@
 This repo has been created to store AWS related projects.
 
 ## Projects
-
+```bash
 Project 1: 
 [Process that needs to be setup to remote manage EC2 instances from an operations perspective.](https://aws.amazon.com/getting-started/hands-on/remotely-run-commands-ec2-instance-systems-manager/) 
 [Build a Jenkins build server for the development team](https://d1.awsstatic.com/Projects/P5505030/aws-project_Jenkins-build-server.pdf?refid=gs_card)
@@ -50,7 +50,7 @@ Project 18:
 [Data preparation using an Amazon RDS for MySQL database with AWS Glue DataBrew]
 Project 19: 
 [Building a serverless multi-player game that scales]
-
+```
 ## Usage
 
 ```python
