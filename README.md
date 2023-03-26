@@ -6,8 +6,8 @@ This repo has been created to store AWS related projects.
  
 - [ ] [Process that needs to be setup to remote manage EC2 instances from an operations perspective.](https://aws.amazon.com/getting-started/hands-on/remotely-run-commands-ec2-instance-systems-manager/) 
 - [ ] [Build a Jenkins build server for the development team](https://d1.awsstatic.com/Projects/P5505030/aws-project_Jenkins-build-server.pdf?refid=gs_card)
-- [ ] [Migrate a github repository to AWS codecommit]
-- [ ] [Setup a compliance archive on Glacier, also include a CLI setup to upload a zip file from local machine to glacier] 
+- [ ] [Migrate a github repository to AWS codecommit](https://docs.aws.amazon.com/codecommit/latest/userguide/how-to-migrate-repository-existing.html)
+- [ ] [Setup a compliance archive on Glacier, also include a CLI setup to upload a zip file from local machine to glacier (https://d1.awsstatic.com/Projects/P4113791/aws-project_set-up-compliant-archive.pdf)
 - [ ] [Build a serverless web application using Amplify, Cognito, API Gateway, Lambda & DynamoDB] 
 - [ ] [Build a modern web application in Python]
 - [ ] [Deploy a Kubernetes Application]
