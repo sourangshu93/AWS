@@ -30,7 +30,7 @@ This repo has been created to store AWS related projects.
 - [ ] [Automating AWS service logs table creation and querying them with Amazon Athena](https://aws.amazon.com/blogs/big-data/automating-aws-service-logs-table-creation-and-querying-them-with-amazon-athena/)
 - [ ] [Data preparation using an Amazon RDS for MySQL database with AWS Glue DataBrew](https://aws.amazon.com/blogs/big-data/data-preparation-using-an-amazon-rds-for-mysql-database-with-aws-glue-databrew/)
 - [ ] [Building a serverless multi-player game that scales](https://aws.amazon.com/blogs/compute/building-a-serverless-multiplayer-game-that-scales/)
-```
+
 ## Usage
 
 ```python
